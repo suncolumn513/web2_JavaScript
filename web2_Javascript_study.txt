@@ -123,6 +123,7 @@ ex) 글자의 개수 세기
   (다른사람의 도움을 받아 소프트웨어를 만든다는 의미)
 
 - javascript에서 가장 유명한 library는 jQuery
+https://developers.google.com/speed/libraries#jquery
 : 직접 코딩하는 것보다 생산성이 높아진다.
 - CDN(Content Delivery Network)을 통해 자기들의 서버에 파일을 보관해놓고 우리는 script src를 통해 가져갈 수 있다. 사용료도 자기들이 대준다.
  -> 구글에서 제공한 jQuery 라이브러리의 주소이용하면 다운로드할 필요없다.
